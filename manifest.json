@@ -1,0 +1,16 @@
+{
+  "name": "CBC Digital Apps Business",
+  "short_name": "CBC Business",
+  "description": "Earn Ksh.100 per each CBC Digital App installation and activation.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff0000",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
