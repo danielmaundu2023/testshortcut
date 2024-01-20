@@ -1,8 +1,8 @@
 {
   "name": "CBC Digital Apps Business",
   "short_name": "CBC Business",
-  "description": "Earn Ksh.100 per each CBC Digital App installation and activation.",
-  "start_url": "/",
+  "description": "Earn money by installing and activating CBC Digital Apps!",
+  "start_url": "https://masomodigital.github.io/masomoapp/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ff0000",
@@ -14,3 +14,4 @@
     }
   ]
 }
+
